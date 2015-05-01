@@ -13,7 +13,7 @@
     "url" : "https://github.com/shaundubuque/hubot-aim"
   },
   "dependencies": {
-	"oscar": "0.2.0"
+	"oscar": "0.2.1"
   },
   "devDependencies": {
     "coffee-script": "1.1.3"
